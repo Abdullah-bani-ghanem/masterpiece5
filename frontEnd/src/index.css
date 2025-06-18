@@ -1,0 +1,8 @@
+@import "tailwindcss";
+#root{
+    background: #2d2d2e;
+}
+
+.swal2-popup {
+    background: #2d2d2e;
+}
