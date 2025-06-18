@@ -16,6 +16,11 @@ const ContactPage = () => {
   // إضافة حالة لزر العودة للأعلى
   const [showBackToTop, setShowBackToTop] = useState(false);
 
+
+
+
+
+  
   // حالة لأسئلة الـ FAQ - تغيير المتغير ليتوافق مع الستايل الجديد
   const [expandedFaq, setExpandedFaq] = useState(null);
 
